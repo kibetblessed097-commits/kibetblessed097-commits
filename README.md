@@ -1,4 +1,4 @@
-## Hi there 👋
+## "A smooth sea never made a skilled sailor" -Franklin D Roosevelt
 
 <!--
 **kibetblessed097-commits/kibetblessed097-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="koi/koi.gif" width="256" alt="My koi">
